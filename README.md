@@ -16,15 +16,13 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Typescript,React Native ,Redux Toolkit
+- 🔭 <b>Frontend</b> : React.js,Redux Toolkit
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : Express, Nestjs ,Nodejs , ,Graghql
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/ , Solidity
+- 📫 <b>Languages</b> : JavaScript, HTML5, CSS/SCSS/ , Solidity
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bkroland19&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=WILTON-DEV&column=7&theme=onedark"/>
 </p>
 
 ## Languages & Tools
@@ -71,10 +69,10 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WILTON-DEV&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WILTON-DEV&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Bkroland's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bkroland19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="Wilton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bkroland19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
 </p>
@@ -88,8 +86,8 @@
 </h2>
 <br />
 <p>
-Email: bkroland19@gmail.com<br />
-Whatsapp: +256773078860 <br />
+Email: balukuwilton@gmail.com<br />
+Whatsapp: +256759181816 <br />
 Portfolio: https://portifolio-resume.web.app/<br />
 </p>
 </div>
