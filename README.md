@@ -88,6 +88,6 @@
 <p>
 Email: balukuwilton@gmail.com<br />
 Whatsapp: +256759181816 <br />
-Portfolio: https://portifolio-resume.web.app/<br />
+Portfolio: https://portifolio-gamma-one.vercel.app//<br />
 </p>
 </div>
