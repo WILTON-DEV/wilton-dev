@@ -75,7 +75,8 @@
   <img alt="Wilton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bkroland19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WILTON-DEV)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WILTON-DEV&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   
 </p>
